@@ -29,6 +29,11 @@ npm run dev
 
 Abra no navegador o endereço informado pelo Vite.
 
+## Gerar versão de produção
+```bash
+npm run build
+```
+
 ## Usuário e senha para teste
 - Usuário: `Aluno Fiap`
 - Senha: `1234`
