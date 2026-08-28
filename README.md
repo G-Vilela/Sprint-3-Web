@@ -44,7 +44,7 @@ Abra no navegador o endereço informado pelo Vite.
 - Comunicação de componente pai para filho através de props
 
 ## Deploy na Vercel
-Link: COLE_AQUI_O_LINK_DA_VERCEL
+Link: 
 
 ## Repositório GitHub
-Link: COLE_AQUI_O_LINK_DO_GITHUB
+Link: https://github.com/G-Vilela/Sprint-3-Web.git
